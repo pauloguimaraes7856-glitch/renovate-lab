@@ -1,0 +1,16 @@
+{
+  "name": "renovate-lab",
+  "version": "1.0.0",
+  "description": "NodeJS project for Renovate and CI assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test passed\"",
+    "build": "echo \"build step\"",
+    "lint": "echo \"lint step\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
